@@ -1,0 +1,69 @@
+﻿ID,Nombre,lat,lng,Elemento
+1,Depot Halle,50.727615,4.209069,Centro EPS
+2,Depot Hoogstraten,51.3960687,4.7523317,Centro EPS
+3,Depot Roeselare,50.9469096,3.100568,Centro EPS
+4,Depot Sint-Katelijne-Waver,51.0627368,4.5223492,Centro EPS
+5,Depot Zellik,50.8956589,4.250197,Centro EPS
+6,Depot Plovidv,42.1275731,24.7914628,Centro EPS
+7,Depot Kralupy,50.2517883,14.3698578,Centro EPS
+8,Depot Olomouc,49.593778,17.2508787,Centro EPS
+9,Depot Horsens,55.838651,9.783318,Centro EPS
+10,Depot Cavaillon,43.815856,5.045915,Centro EPS
+11,Depot Ingré,47.9065494,1.8515943,Centro EPS
+12,Depot Perpignan,42.6935134,2.8603518,Centro EPS
+13,Depot Paris,48.6073288,2.3626056,Centro EPS
+14,Depot Bornheim,50.7530333,7.0204571,Centro EPS
+15,Depot Dortmund,51.5478713,7.4932155,Centro EPS
+16,Depot Hannover,52.2758944,9.350585,Centro EPS
+17,Depot München,48.1599101,11.7680632,Centro EPS
+18,Depot Magdeburg,52.2112197,11.6758823,Centro EPS
+19,Depot Mutterstadt,49.4359026,8.320356,Centro EPS
+20,Depot Obertraubling,48.9531107,12.1742247,Centro EPS
+21,Depot Sangerhausen,51.4478603,11.3077239,Centro EPS
+22,Depot Valthos Glifada,37.9057611,22.8787361,Centro EPS
+23,Depot Thessaloniki,40.7673908,22.1539417,Centro EPS
+24,Depot Gyal II,47.3708342,19.2163522,Centro EPS
+25,Depot Laives,46.4412099,11.3441122,Centro EPS
+26,Depot Polignano,46.4412099,11.3441122,Centro EPS
+27,Depot Reggiolo,44.9249354,10.8511033,Centro EPS
+28,Depot Scordia,44.9249354,10.8511033,Centro EPS
+29,Depot Terracina,41.3026351,13.1050319,Centro EPS
+30,Depot Karlovac,45.5261475,15.5596022,Centro EPS
+31,Depot Gliwice,50.260959,18.6950751,Centro EPS
+32,Depot Piast Piotrkow,51.4551427,19.6580861,Centro EPS
+33,Depot Teresin,52.204277,20.382713,Centro EPS
+34,Depot Azambuja (Lisboa),39.0791748,-8.877696,Centro EPS
+35,Depot Maia (Porto),41.2267359,-8.6015525,Centro EPS
+36,Depot Ploiesti,44.4535031,26.0925276,Centro EPS
+37,Depot Cluj,46.79934,23.7385822,Centro EPS
+38,Depot Beckov,48.7421406,17.8860174,Centro EPS
+39,Depot Cape Town,-33.7111582,18.9741393,Centro EPS
+40,Depot Ceres,-33.3790987,19.295048,Centro EPS
+41,Depot De Doorns,52.193636,-2.221575,Centro EPS
+42,Depot Wolseley,-33.416043,19.198675,Centro EPS
+43,Depot Kakamas,-28.7689958,20.6143081,Centro EPS
+44,Depot Marble Hall,-24.9650576,29.2814687,Centro EPS
+45,Depot Almeria / Nijar,37.9922399,-1.1306544,Centro EPS
+46,Depot Barcelona / Abrera,41.5209153,1.8946704,Centro EPS
+47,Depot Barcelona / Cardedeu,41.6243486,2.3608097,Centro EPS
+48,Depot Bilbao / Amorebieta,43.2042063,-2.7116818,Centro EPS
+49,Depot Gran Canaria,27.9668891,-15.3942369,Centro EPS
+50,Depot Ibiza,38.9486862,1.4450355,Centro EPS
+51,Depot Madrid / San agustin de guadalix,40.6586359,-3.6002547,Centro EPS
+52,Depot Mallorca / Mercapalma service center,39.554602,2.7045312,Centro EPS
+53,Depot Murcia / Caliche,37.8054749,-0.8379313,Centro EPS
+54,Depot Murcia / Las Torres de Cotillas,38.0274986,-1.2433848,Centro EPS
+55,Depot Tenerife,28.4239902,-16.3339228,Centro EPS
+56,Depot Valencia / Massalaves,39.1584097,-0.5210565,Centro EPS
+57,Depot Valencia / Quart,39.4752194,-0.4664366,Centro EPS
+58,Depot Barendrecht,51.8639918,4.5562949,Centro EPS
+59,Depot Bleiswijk,52.0274866,4.5406072,Centro EPS
+60,Depot Bleiswijk Habé,52.0257695,4.5393217,Centro EPS
+61,Depot Breda,51.5885162,4.7279424,Centro EPS
+62,Depot Geldermalsen,51.8828724,5.2663634,Centro EPS
+63,Depot IJsselmuiden,52.5558209,5.9355363,Centro EPS
+64,Depot Venlo,51.4116168,6.1337673,Centro EPS
+65,Depot Wevershoof,52.7073329,5.1512643,Centro EPS
+66,Depot Tamworth,52.600099,-1.6442156,Centro EPS
+67,Depot Doncaster,53.4855704,-1.0978537,Centro EPS
+68,Depot Bedford,52.1469503,-0.4182182,Centro EPS
